@@ -3,22 +3,22 @@
 
 ## Overview
 
-Deep learning has achieved great success in many applications such as image processing, speech recognition and Go games. However, the reason why deep learning is so powerful remains elusive. The goal of this course is to understand the successes of deep learning by studying and building the theoretical foundations of deep learning. Topics covered by this course include but are not limited to: expressive power of deep learning, optimization for deep learning, generalization performance of deep learning and robustness of deep learning. Instructor will give lectures on advanced topics of statistical learning theory. Students will present and discuss papers on the selected topics, and do a course project.
+This course introduces the design of intelligent agents, including the fundamental problem-solving and knowledge-representation paradigms of artificial intelligence. Topics to be covered include the AI programming language LISP, state-space and problem reduction methods, brute-force and heuristic search, two-player games, and recent developments in game AI. For knowledge representation and reasoning, we will cover propositional and first-order logic and their inference algorithms. Finally, the course covers probabilistic approaches to AI, such as Bayesian networks to improve the agent’s performance with experience.
 
 ## Prerequisites
-Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs. CS 260 or an equivalent course.
+This course requires knowledge of basic computer science, algorithms and complexity (CS180), and programming principles.
 
 ## Logistics
 
 <!--University of California, Los Angeles  -->
 
 - Time: **Monday and Wednesday 4:00PM - 5:50PM**
-- Location: **WG YOUNG Hall 4216**  
+- Location: **FRANZ 1178**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
-- Teaching Assistant: Xinzhu Bei (Email: xzbei at cs dot ucla dot edu)
+- Teaching Assistant: Shirley Chen (Email: shirleychen at cs dot ucla dot edu), Yewen Wang (Email: wyw10804 at cs dot ucla dot edu), Chi Zhang (Email: zccc at cs dot uca dot edu), Dongruo Zhou (Email: drzhou at cd dot ucla dot edu)
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
-    - The TA's office hour is Monday 11:00am-1:00pm at Bolter Hall 3256S-F.
+    - The TA's office hour is: Shirley Chen Monday 11:00am-1:00pm at Bolter Hall 3256S-F.
 - Course Website: [https://uclaml.github.io/CS269-Winter2019](https://uclaml.github.io/CS269-Winter2019)
 - Course Forum: [https://piazza.com/ucla/winter2019/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2019/cs269).)
